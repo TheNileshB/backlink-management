@@ -23,7 +23,8 @@ Features:
 [Live Site](https://backlink-management.thenilesh.in/)
 
 For testing:
-- Admin Login: `admin`
-- Admin Password: `admin123`
-- User Login: `user`
-- User Password: `user123`
+- Admin Login: `7046308545`
+- Admin Password: `7046308545`
+- 
+- User Login: `7046308545`
+- User Password: `7046308545`
