@@ -23,8 +23,19 @@ Features:
 [Live Site](https://backlink-management.thenilesh.in/)
 
 For testing:
-- Admin Login: `7046308545`
-- Admin Password: `7046308545`
-- 
-- User Login: `7046308545`
-- User Password: `7046308545`
+- Login URL: `https://backlink-management.thenilesh.in/admin-login.php`
+- Admin Login: `Nilesh`
+- Admin Password: `Nilesh@123`
+
+- Login URL: `https://backlink-management.thenilesh.in/login.php`
+- User Login: `Nilesh`
+- User Password: `Nilesh@123`
+
+
+
+## Note
+
+🔔 This tool is designed for **desktop screens only** and is **not mobile responsive**.  
+It was built for personal use and daily backlink tracking on a desktop.
+
+
